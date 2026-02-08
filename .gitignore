@@ -1,0 +1,7 @@
+# ignore everything
+*
+
+# but keep these files
+!.gitignore
+!main.py
+!pyvenv.cfg
